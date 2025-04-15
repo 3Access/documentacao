@@ -1,6 +1,3 @@
-A seguir está a **versão integrada** do **Manual do Sistema Receptor_v2**, unindo o conteúdo que você forneceu (do GitHub) com a **análise aprofundada** feita sobre a arquitetura do projeto, seus arquivos e possíveis melhorias. O resultado é um **guia completo** tanto do ponto de vista de **funcionalidades e uso**, quanto de **organização interna e desenvolvimento**.
-
----
 
 # Manual do Sistema Receptor_v2 — Versão Integrada
 
