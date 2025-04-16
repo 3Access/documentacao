@@ -1,4 +1,4 @@
-
+[
 # Manual do Sistema Receptor_v2 — Versão Integrada
 
 ## 1. Introdução ao Sistema Receptor
@@ -270,3 +270,4 @@ Gerencia a automação (tempo de abertura, travamento). Ideal para estacionament
 
 O **Receptor_v2** apresenta uma arquitetura robusta e extensível. Ele **integra hardware** (GPIO, sensores, relés), **software** (Qt/C++), **banco de dados** (MySQL/MariaDB) e **rede** (TCP/IP). Ideal para soluções de catracas, cancelas, bilheteria e estacionamento, com forte ênfase em **flexibilidade** e **personalização**.
 
+](https://github.com/3Access/documentacao/blob/main/ticket_regras.md)
